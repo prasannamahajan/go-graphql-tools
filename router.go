@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/arvitaly/graphql"
+	"github.com/prasannamahajan/graphql"
 	"github.com/graphql-go/graphql/language/ast"
 	"golang.org/x/net/context"
 )

@@ -3,8 +3,8 @@ package starwars
 import (
 	"testing"
 
-	"github.com/arvitaly/go-graphql-tools"
-	"github.com/arvitaly/graphql"
+	"github.com/prasannamahajan/go-graphql-tools"
+	"github.com/prasannamahajan/graphql"
 	"github.com/graphql-go/graphql/testutil"
 )
 

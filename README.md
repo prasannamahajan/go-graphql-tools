@@ -4,7 +4,7 @@
 
 Based on https://github.com/graphql-go/graphql library
 
-[![Build Status](https://travis-ci.org/arvitaly/go-graphql-tools.svg?branch=master)](https://travis-ci.org/arvitaly/go-graphql-tools)
+[![Build Status](https://travis-ci.org/prasannamahajan/go-graphql-tools.svg?branch=master)](https://travis-ci.org/prasannamahajan/go-graphql-tools)
 
 # Example
 
